@@ -1,5 +1,5 @@
 # Cats vs Dogs – Binary Image Classification (Transfer Learning)
-### 20-8-2024 ----> Pytorch course (transfere learning)
+### 20-8-2024 ----> Pytorch course (transfer learning)
 ### Eng: Eslam Yasser 
 
 ## Setup
